@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684583275 source:d:\pastas\documentos\utfpr\2per\csf20 estrutura de dados 1\reforço\arquivos\list.c
+	"list.h"
+
+1684582963 d:\pastas\documentos\utfpr\2per\csf20 estrutura de dados 1\reforço\arquivos\list.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1685930237 source:d:\pastas\documentos\utfpr\2per\csf20 estrutura de dados 1\reforço\arquivos\sum-big.c
+	"list.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696485301 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\7 Árvore digital\lista\codigo-trie-incompleta\main.c
+	"trie.h"
+
+1696485753 d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\7 Árvore digital\lista\codigo-trie-incompleta\trie.h
+	<stdio.h>
+	<stdlib.h>
+
+1696488975 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\7 Árvore digital\lista\codigo-trie-incompleta\trie.c
+	"trie.h"
+

@@ -1,0 +1,2 @@
+Basta considerar cada extremidade do vetor como uma pilha diferente,
+e cuidar para não dar colisão entre elas.

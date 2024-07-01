@@ -1,0 +1,1 @@
+gcc prog -o prog

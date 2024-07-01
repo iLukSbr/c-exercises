@@ -1,0 +1,1 @@
+Ambas soluções não funcionam. Teste e modifique o código em merge-inplace.c 

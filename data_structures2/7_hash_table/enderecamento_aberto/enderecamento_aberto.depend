@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700030111 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\10 tabela hash\lista\enderecamento_aberto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

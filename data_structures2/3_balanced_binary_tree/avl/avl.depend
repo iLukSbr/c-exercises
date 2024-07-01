@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694666079 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\4 implementação da avl\lista\avl.c
+	"avl.h"
+
+1694666059 d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\4 implementação da avl\lista\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693725092 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\4 implementação da avl\lista\prog.c
+	"avl.h"
+
+1694664015 source:d:\pastas\documentos\utfpr\3per\estruturas de dados 2 - icsf30-s71\4 implementação da avl\lista\main.c
+	"avl.h"
+
