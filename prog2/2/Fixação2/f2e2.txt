@@ -1,0 +1,8 @@
+Total de segundos = n
+Parte inteira de n/86400 = dias
+n = n - 86400*dias
+Parte inteira de n/3600 = horas
+n = n - 3600*horas
+Parte inteira de n/60 = minutos
+n = n - 60*minutos
+n = segundos

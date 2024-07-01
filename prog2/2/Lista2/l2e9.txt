@@ -1,0 +1,1 @@
+Não, pois o primeiro mostra os números como caracteres, e o segundo como variáveis int

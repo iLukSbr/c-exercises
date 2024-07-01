@@ -1,0 +1,8 @@
+Linha 6:
+int i, metade = numero/2;
+
+Linha 13:
+for (i = 3; i <= metade; i += 2)
+
+Linha 22:
+int n_encontrados = 0; 

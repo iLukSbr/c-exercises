@@ -1,0 +1,7 @@
+Resto de divisão entre floats
+& no printf
+x1 = x2 falta ponto-e-vírgula
+x3 não tem valor
+X2 é com letra minúscula
+x1 + 10.0; não atribuiu o valor a uma variável
+Não pode zero antes do int senão vira octal

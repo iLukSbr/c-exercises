@@ -1,0 +1,10 @@
+Recolher os copos
+Copo 1 = abacaxi
+Copo 2 = melancia
+Pegar outro copo (copo 3)
+Transferir o suco de abacaxi do copo 1 para o 3
+Lavar o copo 1
+Transferir o suco de melancia do copo 2 para o 1
+Lavar o copo 2
+Transferir o suco de abacaxi do copo 3 para o 2
+Entregar novamente os copos

@@ -1,0 +1,1 @@
+Devido à precisão dos números em ponto flutuante.

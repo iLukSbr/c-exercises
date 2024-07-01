@@ -1,0 +1,15 @@
+a)
+? ? ?
+67 67 88
+11000010
+? 67 1000
+
+b) Variáveis sem valores atribuídos.
+
+c) Porque 0x58 está em hexadecimal, e %d imprimirá 88 em decimal.
+
+d) Todas as variáveis em binário.
+
+e) Binário de 67 ao contrário.
+
+f) Overflow, 1000 em binário é 1111101000, mas char só tem 8 bits.

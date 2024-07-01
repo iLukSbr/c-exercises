@@ -1,0 +1,37 @@
+4.
+a) Não pula uma linha entre mensagem e return.
+
+b) Erro, não compila.
+
+c) Pula uma linha entre Hello e world.
+
+d) A frase é imprimida igual.
+
+e) III e V.
+
+5.
+Porque no C divisão e multiplicação têm a mesma precedência, então as operações são em ordem, não prioriza a multiplicação.
+
+6.
+Precisa de uma variável a mais para armazenar.
+int buffer;
+buffer = primeiro;
+primeiro = segundo;
+segundo = buffer;
+
+7.
+Possui 1 espiga = 150 grãos = 150g
+anos > 100 T = ?
+Cada ano planta todos
+1 colheita por ano
+10% dos grãos não germinam
+Cada grão produz 2 espigas
+
+grãos = 150
+ano = 0
+total = 100*1000*1000
+enquanto grãos <= total
+{
+	grãos = (grãos*0,9)*2*150
+	ano = ano + 1
+}

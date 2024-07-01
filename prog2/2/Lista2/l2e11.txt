@@ -1,0 +1,1 @@
+Depende da arquitetura, do compilador e do conhecimento de quem lerá o código. No meu teste a função pow calculou mais rápido.
